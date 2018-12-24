@@ -1,4 +1,4 @@
-refreshFrequency: 10000000
+refreshFrequency: false
 style: """
 position: absolute;
 top: 45%;
