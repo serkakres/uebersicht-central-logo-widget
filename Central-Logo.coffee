@@ -1,9 +1,9 @@
 refreshFrequency: false
 style: """
 position: absolute;
-top: 45%;
+top: 37%;
 left: 50%;
-transform: translate(-50%, -50%)
+transform: translate(-50%, -50%);
 """
 render: (output) -> """
 <!--Following line specifies image source, width and height-->
